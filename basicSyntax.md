@@ -1,9 +1,9 @@
 # Heading 1
-## Heading 2
+## Heading Two
 
 *This is in italics*
 
-**This part is bolded**
+**This part is in bold**
 
 [Link] (https://google.com)
 
