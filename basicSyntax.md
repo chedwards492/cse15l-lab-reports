@@ -3,11 +3,11 @@
 
 *This is in italics*
 
-**This part is in bold**
+**This part is bolded**
 
 [Link](https://google.com)
 
-![Image](https://www.google.com/imgres?imgurl=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2F7%2F77%2FGoogle_Images_2015_logo.svg%2F800px-Google_Images_2015_logo.svg.png&imgrefurl=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FGoogle_Images&tbnid=d-Ji7qscokYdVM&vet=12ahUKEwizueHD0IX3AhU0JX0KHZd0AfQQMygAegUIARDXAQ..i&docid=qfPPp-mRFi6Y6M&w=800&h=275&q=google%20images&ved=2ahUKEwizueHD0IX3AhU0JX0KHZd0AfQQMygAegUIARDXAQ)
+![Image](https://user-images.githubusercontent.com/66543275/162546664-cd2f03a9-1a88-435e-bec3-96f468bc5e60.png)
 
 > Blockquote
 > ahh
