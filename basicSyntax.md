@@ -7,7 +7,7 @@
 
 [Link](https://google.com)
 
-![Image](https://www.google.com/imgres?imgurl=https%3A%2F%2Fd1lss44hh2trtw.cloudfront.net%2Fassets%2Farticle%2F2021%2F12%2F13%2Fdiscord-wumpus-space_feature.png&imgrefurl=https%3A%2F%2Fwww.shacknews.com%2Farticle%2F128079%2Fdiscord-sent-its-wumpus-mascot-to-space-in-snowsgiving-2021-finale&tbnid=cfvTG0zXVMm7_M&vet=12ahUKEwjL0seJzoX3AhV6FTQIHcAtCxgQMygAegUIARC9AQ..i&docid=uj8F6P2miUrKOM&w=1920&h=1080&q=discord%20mascot&ved=2ahUKEwjL0seJzoX3AhV6FTQIHcAtCxgQMygAegUIARC9AQ)
+![Image](https://www.google.com/imgres?imgurl=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2F7%2F77%2FGoogle_Images_2015_logo.svg%2F800px-Google_Images_2015_logo.svg.png&imgrefurl=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FGoogle_Images&tbnid=d-Ji7qscokYdVM&vet=12ahUKEwizueHD0IX3AhU0JX0KHZd0AfQQMygAegUIARDXAQ..i&docid=qfPPp-mRFi6Y6M&w=800&h=275&q=google%20images&ved=2ahUKEwizueHD0IX3AhU0JX0KHZd0AfQQMygAegUIARDXAQ)
 
 > Blockquote
 > ahh
