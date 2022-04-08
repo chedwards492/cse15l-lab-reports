@@ -3,7 +3,7 @@
 
 *This is in italics*
 
-** This is in bold ** 
+**This is in bold** 
 
 [Link](https://google.com)
 
