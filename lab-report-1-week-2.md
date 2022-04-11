@@ -13,8 +13,12 @@ Navigate to the website below and follow the instructions to install VScode onto
 
 [VScode Installation](https://code.visualstudio.com/)
 
-Once you have installed VScode
+Once you have installed VScode, your screen should look something like this:
 
+![Image](images/vscodeScreenshot.jpg)
+
+It will likely look a little different, for example, you will just see the vscode logo and the colors of your application might be a little different.
+However, this window shows that you have properly installed it.
 ## **Remotely Connecting to Server**
 
 **Step 1:**
