@@ -13,7 +13,7 @@ The image below shows the changes that were made to the original file in order t
 
 The link below is the link to the Markdown test file that made the original program fail.
 
-[test-file.md](../../../../../Documents/GitHub/markdown-parser/test-file.md)
+[test-file.md](../test-file.md)
 
 We then created a new test to see if our program would act properly when met with a different Markdown file. This new test file that I made contained brackets, but no parentheses surrounding the link. The supposed link looked something like, `[Link Name]TheLink.com`
 
