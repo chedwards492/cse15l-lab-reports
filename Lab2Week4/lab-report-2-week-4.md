@@ -13,7 +13,7 @@ The image below shows the changes that were made to the original file in order t
 
 The link below is the link to the Markdown test file that made the original program fail.
 
-[test-file.md](../test-file.md)
+[test-file.md](test-file.md)
 
 We then created a new test to see if our program would act properly when met with a different Markdown file. This new test file that I made contained brackets, but no parentheses surrounding the link. The supposed link looked something like, `[Link Name]TheLink.com`
 
@@ -31,7 +31,7 @@ Below is a screenshot of the changes I made to the program is order to fix the p
 
 Continuing with the incremental debugging strategy, I made a new test file that my program failed. This one had parentheses around the link url, but no brackets preceding it. It looked something like `Links(thelink.com)`. Below is the link to that test file.
 
-[Parentheses with no brackets test](../../../../../Documents/GitHub/markdown-parser/noBracketsYesParentheses.md)
+[Parentheses with no brackets test](noBracketsYesParentheses.md)
 
 Running my program on this test resulted in the following output.
 
@@ -49,7 +49,7 @@ Below is the screenshot of the changes I made to my program to fix the previous 
 
 The next test that I created had both the brackets and parentheses of the link, but had some text between the brackets and parentheses. It looked like `[Link name]some text(TheLink.com)`.
 
-[Text between Brackets and Parentheses Test](../../../../../Documents/GitHub/markdown-parser/textBetweenBrAndPa.md)
+[Text between Brackets and Parentheses Test](textBetweenBrAndPa.md)
 
 Below is the output that resulted from running my program using this test file.
 
