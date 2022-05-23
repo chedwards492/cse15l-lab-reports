@@ -3,3 +3,5 @@
 [Lab Report-2 Week 4](https://chedwards492.github.io/cse15l-lab-reports/Lab2Week4/lab-report-2-week-4.html)
 
 [Lab Report-3 Week 6](https://chedwards492.github.io/cse15l-lab-reports/Lab3Week6/lab-report-3-week-6.html)
+
+[Lab Report-4 Week 8](https://chedwards492.github.io/cse15l-lab-reports/Lab4Week8/lab-report-4-week-8.html)
