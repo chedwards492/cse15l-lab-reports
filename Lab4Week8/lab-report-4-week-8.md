@@ -41,7 +41,7 @@ I believe that my program can be fixed with a small change so that the test for 
 
 ### Snippet 2 Code Change
 
-My program could be fixed by ensuring that the opening bracket of the link has a closing bracket to match it. With the parentheses of the link, I would ensure that the outermost opening parenthesis has a pair, and then ensure that all that is inside the outer parentheses pair is interpretted as the link. I would also write an if statement when finding the index of the brackets, if the brackets have a backslash before them, disregard them.
+I am not certain if this code change would be less than 10 lines. My program could be fixed by ensuring that the opening bracket of the link has a closing bracket to match it. With the parentheses of the link, I would ensure that the outermost opening parenthesis has a pair, and then ensure that all that is inside the outer parentheses pair is interpretted as the link. I would also write an if statement when finding the index of the brackets, if the brackets have a backslash before them, disregard them. This would be around 10 lines, it wouldn't be a small change but it also wouldn't be a large change.
 
 
 
